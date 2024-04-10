@@ -18,7 +18,7 @@ purchase history.
 
 ## Database Schema
 
-Product Table:
+A. Product Table:
 
 Columns:
 
@@ -32,8 +32,7 @@ Columns:
 
 ● brand: Brand of the product.
 
-
-Interactions Table:
+B. Interactions Table:
 
 Columns:
 
@@ -47,8 +46,7 @@ Columns:
 
 ● timestamp: Timestamp when the interaction occurred.
 
-
-Past Purchases Table:
+C. Past Purchases Table:
 
 Columns:
 
