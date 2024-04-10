@@ -32,6 +32,7 @@ Columns:
 
 ● brand: Brand of the product.
 
+
 Interactions Table:
 
 Columns:
