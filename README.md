@@ -18,10 +18,7 @@ purchase history.
 
 ## Database Schema
 
-A. Product Table:
-
-Columns:
-
+A. Product Table Columns:
 ● product_id: Unique identifier for each product.
 
 ● product_name: Name of the product.
@@ -32,10 +29,7 @@ Columns:
 
 ● brand: Brand of the product.
 
-B. Interactions Table:
-
-Columns:
-
+B. Interactions Table Columns:
 ● interaction_id: Unique identifier for each interaction.
 
 ● user_id: Unique identifier for each user.
@@ -46,10 +40,7 @@ Columns:
 
 ● timestamp: Timestamp when the interaction occurred.
 
-C. Past Purchases Table:
-
-Columns:
-
+C. Past Purchases Table Columns:
 ● purchase_id: Unique identifier for each purchase.
 
 ● user_id: Unique identifier for each user.
